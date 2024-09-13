@@ -1,0 +1,34 @@
+{
+  "name": "vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "core-js": "^3.6.5",
+    "echarts": "^5.3.0",
+    "element-ui": "^2.15.6",
+    "file-saver": "^2.0.5",
+    "html-docx-js": "^0.3.1",
+    "vue": "^2.6.11",
+    "vue-html2pdf": "^1.8.0",
+    "vue-json-excel": "^0.3.0",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.6.2",
+    "wangeditor": "^4.7.15"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "5.0.8",
+    "@vue/cli-plugin-router": "5.0.8",
+    "@vue/cli-service": "5.0.8",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
